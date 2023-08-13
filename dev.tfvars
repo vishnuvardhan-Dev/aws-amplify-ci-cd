@@ -1,0 +1,12 @@
+aws_region     = "us-east-1"
+app_name       = "Tech-app"
+repository_url = "https://github.com/vishnuvardhan-Dev/next-js.git"
+#please metion access token below
+access_token   = "**access-token**"
+platform       = "WEB_COMPUTE"
+branch         = "main"
+framework_name = "Next.js - SSR"
+stage          = "PRODUCTION"
+custom_rule_source = "/dev/*"
+custom_rule_status = "404-200"
+custom_rule_target = "/dev/index.html"
