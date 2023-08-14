@@ -2,7 +2,7 @@ aws_region     = "us-east-1"
 app_name       = "Tech-app"
 repository_url = "https://github.com/vishnuvardhan-Dev/next-js.git"
 #please metion access token below
-access_token   = "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"
+access_token   = "**access-token**"
 platform       = "WEB_COMPUTE"
 branch         = "main"
 framework_name = "Next.js - SSR"

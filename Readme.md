@@ -1,4 +1,10 @@
-* AWS Amplify is a development platform provided by Amazon Web Services (AWS) that simplifies the process of building web and mobile applications. It's designed to help developers quickly create scalable and feature-rich applications by abstracting away many of the complexities involved in setting up and managing backend services, databases, authentication, and more.
+## AWS-Amplify infrastructure using terraform and setup of CI/CD pipeline with Amplify’s inbuilt functionality.
+
+ ## 
+  **✨Breif about AWS-Amplify**
+ is a development platform provided by Amazon Web Services (AWS) that simplifies the process of building web and mobile applications. It's designed to help developers quickly create scalable and feature-rich applications by abstracting away many of the complexities involved in setting up and managing backend services, databases, authentication, and more.
+  
+ 
 
 ## Deployment with AWS Amplify: Terraform and CI/CD for Reliable, Scalable Apps
    
