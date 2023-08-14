@@ -9,7 +9,7 @@ terraform {
     key     = "mb-tf-task/terraform.tfstate"
     region  = "ap-south-1"
     bucket  = "terraform-mb"
-    profile = "prod"
+    profile = "default"  
   }
 }
 
