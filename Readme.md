@@ -17,7 +17,6 @@
     * `var.repository_url`: The URL of the repository associated with the app.
         
     * `var.access_token`: The access token for authentication.
-        > please metion the access token in the plan and apply.
         
     * `var.platform`: The platform on which the app is built.       
 
